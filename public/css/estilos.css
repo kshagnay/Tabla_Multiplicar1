@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#areaResultado {
+    font-size: 1.2rem;
+}
+/* Centrar el card en la pantalla */
+.contenedor-central {
+    max-width: 600px;
+    margin: 40px auto; /* centra horizontalmente */
+}
+
+/* Input y botón más compactos */
+#numero {
+    height: 40px;
+    font-size: 0.95rem;
+}
+
+/* Resultado más pequeño */
+#areaResultado {
+    font-size: 0.95rem;
+}
+
+.alert {
+    padding: 15px;
+    border-radius: 12px;
+}
+
